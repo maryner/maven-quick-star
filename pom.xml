@@ -6,6 +6,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programming</groupId>
   <artifactId>mave-quick-star</artifactId>
+  <dependencies>
+	  <dependency>
+		  <groupId>org.apache.commons</groupId>
+		  <artifactId>commons-lang3</artifactId>
+		  <version>3.12.0</version>
+	  </dependency>
+  </dependencies>
   <version>1.0</version>
 	  <build>
 		<plugins>
